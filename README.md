@@ -50,7 +50,7 @@ A recomendação é feita calculando a distância angular entre os vetores de al
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/gabrielcardoso-estatistico/CineMatch-AI.git](https://github.com/gabrielcardoso-estatistico/CineMatch-AI.git)
+    git clone [https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git](https://github.com/gabrielcardoso-estatistico/CineMatch_AI.git)
     ```
 
 2.  **Instale as dependências:**
