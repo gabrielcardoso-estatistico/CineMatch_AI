@@ -10,7 +10,6 @@ Aqui está uma demonstração do sistema sugerindo filmes similares ao "Avatar" 
 
 ![CineMatch_AI](img1.png) 
 
-> **Nota:** Certifique-se de que o arquivo da imagem (`image_e80159.jpg`) esteja na raiz do seu repositório para que ela apareça corretamente.
 
 ---
 
