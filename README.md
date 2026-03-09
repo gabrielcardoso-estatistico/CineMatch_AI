@@ -8,7 +8,7 @@ O **CineMatch AI** é um sistema de recomendação de filmes que utiliza Process
 
 Aqui está uma demonstração do sistema sugerindo filmes similares ao "Avatar" com filtros personalizados de Ação e Aventura:
 
-![CineMatch AI](imag1.png) 
+![CineMatch_AI](img1.png) 
 
 > **Nota:** Certifique-se de que o arquivo da imagem (`image_e80159.jpg`) esteja na raiz do seu repositório para que ela apareça corretamente.
 
@@ -74,4 +74,4 @@ Os dados utilizados foram extraídos do dataset **TMDB 5000 Movies**, contendo i
 
 ---
 
-**Desenvolvido por Gabriel Cardoso 🚀** *Conectando IA e Cinema para uma experiência de descoberta inteligente.*
+**Desenvolvido por Gabriel Cardoso 🚀**
